@@ -1740,7 +1740,7 @@ img {
 }
 
 .page-footer__wrap {
-  width: 321px;
+  min-width: 328px;
   margin-right: 91px;
   margin-left: 4px;
 }
